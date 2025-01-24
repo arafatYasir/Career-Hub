@@ -10,7 +10,7 @@ const Nav = () => {
         <div className="navbar p-0 mt-6">
             <div className="navbar-start">
                 <div className="dropdown">
-                    <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+                    <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden pl-0">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             className="h-5 w-5"
@@ -40,7 +40,7 @@ const Nav = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <button className="text-white text-xl font-bold bg-linear-to-r from-[#7E90FE] to-[#9873FF] py-[19px] px-[28px] rounded-lg cursor-pointer">Start Appplying</button>
+                <button className="text-white md:text-xl font-bold bg-linear-to-r from-[#7E90FE] to-[#9873FF] py-1.5 px-2 md:py-[19px] md:px-[28px] rounded-lg cursor-pointer">Start Appplying</button>
             </div>
         </div>
     );
