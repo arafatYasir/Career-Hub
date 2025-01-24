@@ -7,7 +7,7 @@ const Nav = () => {
         <li className="text-xl"><NavLink to="/applied">Applied Jobs</NavLink></li>
     </>
     return (
-        <div className="navbar">
+        <div className="navbar p-0 mt-6">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
