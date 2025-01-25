@@ -7,10 +7,13 @@ const FeaturedJobs = () => {
     const [showButton, setShowbutton] = useState(true);
 
     useEffect(() => {
-        fetch("featured_jobs.json")
+        fetch("jobs.json")
             .then(res => res.json())
             .then(data => setJobs(data))
     }, []);
+
+    // storing all jobs inside local storage
+    jobs.map(job => localStorage.setItem(job.job_id, JSON.stringify(job)));
 
     function handleSeeAll() {
         setShowbutton(false);

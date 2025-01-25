@@ -16,7 +16,8 @@
             "401(k) matching",
             "Flexible work hours"
         ],
-        "expectation": "We are looking for a highly skilled software engineer to join our dynamic team. You will be responsible for developing, testing, and maintaining scalable applications. Strong expertise in JavaScript, React, and Node.js is required. Familiarity with cloud platforms like AWS and containerization tools like Docker is a plus."
+        "job_description": "We are looking for a highly skilled software engineer to join our dynamic team. You will be responsible for developing, testing, and maintaining scalable applications. Strong expertise in JavaScript, React, and Node.js is required. Familiarity with cloud platforms like AWS and containerization tools like Docker is a plus.",
+        "job_responsibility": "As a Software Engineer at Google, your primary responsibility will be to design and build scalable, reliable software solutions to support our global operations. This role emphasizes collaboration, innovation, and leveraging cutting-edge technologies to solve complex challenges."
     },
     {
         "job_id": "JN002",
@@ -35,7 +36,8 @@
             "Paid time off",
             "Professional development programs"
         ],
-        "expectation": "Seeking a creative Frontend Developer with expertise in React, TypeScript, and modern CSS frameworks. You will work closely with designers and backend developers to create visually stunning, responsive web applications. Experience with performance optimization and accessibility standards is highly desirable."
+        "job_description": "Seeking a creative Frontend Developer with expertise in React, TypeScript, and modern CSS frameworks. You will work closely with designers and backend developers to create visually stunning, responsive web applications. Experience with performance optimization and accessibility standards is highly desirable.",
+        "job_responsibility": "As a Frontend Developer at Adobe, you will bring to life engaging user interfaces, ensuring seamless interaction and accessibility. This role is integral in transforming design concepts into responsive, pixel-perfect web experiences."
     },
     {
         "job_id": "JN003",
@@ -54,7 +56,8 @@
             "Remote work options",
             "Stock options"
         ],
-        "expectation": "Looking for a skilled Backend Engineer to design and maintain our APIs and server infrastructure. The ideal candidate should have strong experience with Python, Django, and PostgreSQL. Knowledge of microservices architecture and CI/CD pipelines is essential."
+        "job_description": "Looking for a skilled Backend Engineer to design and maintain our APIs and server infrastructure. The ideal candidate should have strong experience with Python, Django, and PostgreSQL. Knowledge of microservices architecture and CI/CD pipelines is essential.",
+        "job_responsibility": "Join Amazon as a Backend Engineer and contribute to building robust, high-performing APIs and systems that power our global services. You will play a pivotal role in ensuring seamless integration and scalability."
     },
     {
         "job_id": "JN004",
@@ -73,7 +76,8 @@
             "Flexible hours",
             "Bonuses based on performance"
         ],
-        "expectation": "Join our innovative team as a Full-Stack Developer. You will build end-to-end solutions, focusing on both frontend and backend development. Proficiency in React, Node.js, and MongoDB is required. Prior experience in Agile methodologies and cloud computing is preferred."
+        "job_description": "Join our innovative team as a Full-Stack Developer. You will build end-to-end solutions, focusing on both frontend and backend development. Proficiency in React, Node.js, and MongoDB is required. Prior experience in Agile methodologies and cloud computing is preferred.",
+        "job_responsibility": "As a Full-Stack Developer at Meta, you'll craft seamless web applications by integrating frontend design with backend logic, ensuring optimal user experiences and robust system performance."
     },
     {
         "job_id": "JN005",
@@ -92,7 +96,8 @@
             "Relocation assistance",
             "Company-sponsored events"
         ],
-        "expectation": "We are hiring a DevOps Engineer to optimize and maintain our deployment pipelines. Hands-on experience with Kubernetes, Docker, and AWS is a must. Familiarity with CI/CD tools like Jenkins and scripting in Bash or Python is expected. Problem-solving skills and attention to detail are key."
+        "job_description": "We are hiring a DevOps Engineer to optimize and maintain our deployment pipelines. Hands-on experience with Kubernetes, Docker, and AWS is a must. Familiarity with CI/CD tools like Jenkins and scripting in Bash or Python is expected. Problem-solving skills and attention to detail are key.",
+        "job_responsibility": "Become a DevOps Engineer at Netflix, where you'll streamline deployment processes, ensure system reliability, and foster innovation within our cutting-edge engineering team."
     },
     {
         "job_id": "JN006",
@@ -111,7 +116,8 @@
             "Creative freedom",
             "Paid training programs"
         ],
-        "expectation": "Looking for a talented UI/UX Designer to create user-centered designs for web and mobile applications. Proficiency in Figma, Adobe XD, and design systems is required. Strong understanding of user research and usability testing is essential for success in this role."
+        "job_description": "Looking for a talented UI/UX Designer to create user-centered designs for web and mobile applications. Proficiency in Figma, Adobe XD, and design systems is required. Strong understanding of user research and usability testing is essential for success in this role.",
+        "job_responsibility": "As a UI/UX Designer at Oracle, you'll design intuitive and engaging digital experiences for web and mobile platforms. You will focus on user-centered design principles and collaborate with developers to implement seamless, usable interfaces."
     },
     {
         "job_id": "JN007",
@@ -130,7 +136,8 @@
             "Stock options",
             "Generous PTO"
         ],
-        "expectation": "Join our team as a Data Scientist to analyze complex datasets and provide actionable insights. Expertise in Python, R, and SQL is required. Experience with machine learning frameworks and cloud platforms such as Azure or AWS is highly preferred."
+        "job_description": "Join our team as a Data Scientist to analyze complex datasets and provide actionable insights. Expertise in Python, R, and SQL is required. Experience with machine learning frameworks and cloud platforms such as Azure or AWS is highly preferred.",
+        "job_responsibility": "As a Data Scientist at IBM, you will tackle complex data problems, derive insights, and develop predictive models to support strategic business decisions. You'll work with large datasets and leverage machine learning techniques to transform raw data into valuable business intelligence."
     },
     {
         "job_id": "JN008",
@@ -149,7 +156,8 @@
             "Annual bonuses",
             "Employee wellness programs"
         ],
-        "expectation": "Seeking a detail-oriented Cybersecurity Analyst to ensure the security of our systems and networks. Strong knowledge of network security, intrusion detection, and incident response is required. Industry certifications like CISSP or CEH are highly desirable."
+        "job_description": "Seeking a detail-oriented Cybersecurity Analyst to ensure the security of our systems and networks. Strong knowledge of network security, intrusion detection, and incident response is required. Industry certifications like CISSP or CEH are highly desirable.",
+        "job_responsibility": "As a Cybersecurity Analyst at Google, you will safeguard critical systems and infrastructure, identifying vulnerabilities and implementing countermeasures. You'll work closely with security teams to monitor and defend against emerging cyber threats, ensuring the protection of our data."
     },
     {
         "job_id": "JN009",
@@ -163,12 +171,8 @@
         "salary": "$120,000 - $150,000",
         "posted_date": "2025-01-08",
         "application_deadline": "2025-02-20",
-        "benefits": [
-            "Health insurance",
-            "401(k)",
-            "Team retreats"
-        ],
-        "expectation": "We are looking for an experienced Product Manager to oversee the development and launch of new software products. Strong communication and leadership skills are essential. Familiarity with Agile methodologies, market research, and product lifecycle management is required."
+        "job_description": "We are looking for an experienced Product Manager to oversee the development and launch of new software products. Strong communication and leadership skills are essential. Familiarity with Agile methodologies, market research, and product lifecycle management is required.",
+        "job_responsibility": "As a Product Manager at Microsoft, you'll lead cross-functional teams to drive the development of innovative products. You'll manage the product lifecycle from concept to launch, using your strategic vision and leadership to align teams and ensure the successful delivery of customer-centric solutions."
     },
     {
         "job_id": "JN010",
@@ -182,11 +186,7 @@
         "salary": "$110,000 - $140,000",
         "posted_date": "2025-01-14",
         "application_deadline": "2025-03-01",
-        "benefits": [
-            "Remote work",
-            "Paid certifications",
-            "Health benefits"
-        ],
-        "expectation": "Hiring a Cloud Engineer with expertise in cloud infrastructure design and maintenance. Must have experience with AWS, Azure, or Google Cloud. Proficiency in scripting languages and understanding of cloud security principles are essential."
+        "job_description": "Hiring a Cloud Engineer with expertise in cloud infrastructure design and maintenance. Must have experience with AWS, Azure, or Google Cloud. Proficiency in scripting languages and understanding of cloud security principles are essential.",
+        "job_responsibility": "As a Cloud Engineer at Netflix, you'll work on designing, deploying, and maintaining scalable cloud infrastructure. You'll ensure the security, reliability, and performance of cloud systems while supporting various teams in their cloud-based applications."
     }
 ]
