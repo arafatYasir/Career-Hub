@@ -1,0 +1,192 @@
+[
+    {
+        "job_id": "JN001",
+        "job_role": "Software Engineer",
+        "company": "Google",
+        "company_logo": "images/google.webp",
+        "onsite_or_remote": "Remote",
+        "location": "Mountain View, CA",
+        "employment_type": "Full-time",
+        "experience_level": "Mid-level",
+        "salary": "$120,000 - $150,000",
+        "posted_date": "2025-01-15",
+        "application_deadline": "2025-02-15",
+        "benefits": [
+            "Health insurance",
+            "401(k) matching",
+            "Flexible work hours"
+        ],
+        "expectation": "We are looking for a highly skilled software engineer to join our dynamic team. You will be responsible for developing, testing, and maintaining scalable applications. Strong expertise in JavaScript, React, and Node.js is required. Familiarity with cloud platforms like AWS and containerization tools like Docker is a plus."
+    },
+    {
+        "job_id": "JN002",
+        "job_role": "Frontend Developer",
+        "company": "Adobe",
+        "company_logo": "images/adobe.webp",
+        "onsite_or_remote": "Onsite",
+        "location": "San Jose, CA",
+        "employment_type": "Full-time",
+        "experience_level": "Mid-level",
+        "salary": "$90,000 - $110,000",
+        "posted_date": "2025-01-18",
+        "application_deadline": "2025-02-20",
+        "benefits": [
+            "Gym membership",
+            "Paid time off",
+            "Professional development programs"
+        ],
+        "expectation": "Seeking a creative Frontend Developer with expertise in React, TypeScript, and modern CSS frameworks. You will work closely with designers and backend developers to create visually stunning, responsive web applications. Experience with performance optimization and accessibility standards is highly desirable."
+    },
+    {
+        "job_id": "JN003",
+        "job_role": "Backend Engineer",
+        "company": "Amazon",
+        "company_logo": "images/amazon.webp",
+        "onsite_or_remote": "Hybrid",
+        "location": "Seattle, WA",
+        "employment_type": "Full-time",
+        "experience_level": "Senior",
+        "salary": "$100,000 - $130,000",
+        "posted_date": "2025-01-10",
+        "application_deadline": "2025-02-01",
+        "benefits": [
+            "Health insurance",
+            "Remote work options",
+            "Stock options"
+        ],
+        "expectation": "Looking for a skilled Backend Engineer to design and maintain our APIs and server infrastructure. The ideal candidate should have strong experience with Python, Django, and PostgreSQL. Knowledge of microservices architecture and CI/CD pipelines is essential."
+    },
+    {
+        "job_id": "JN004",
+        "job_role": "Full-Stack Developer",
+        "company": "Meta",
+        "company_logo": "images/meta.webp",
+        "onsite_or_remote": "Remote",
+        "location": "Menlo Park, CA",
+        "employment_type": "Contract",
+        "experience_level": "Mid-level",
+        "salary": "$110,000 - $140,000",
+        "posted_date": "2025-01-20",
+        "application_deadline": "2025-02-25",
+        "benefits": [
+            "Remote work",
+            "Flexible hours",
+            "Bonuses based on performance"
+        ],
+        "expectation": "Join our innovative team as a Full-Stack Developer. You will build end-to-end solutions, focusing on both frontend and backend development. Proficiency in React, Node.js, and MongoDB is required. Prior experience in Agile methodologies and cloud computing is preferred."
+    },
+    {
+        "job_id": "JN005",
+        "job_role": "DevOps Engineer",
+        "company": "Netflix",
+        "company_logo": "images/netflix.webp",
+        "onsite_or_remote": "Onsite",
+        "location": "Los Gatos, CA",
+        "employment_type": "Full-time",
+        "experience_level": "Senior",
+        "salary": "$115,000 - $145,000",
+        "posted_date": "2025-01-05",
+        "application_deadline": "2025-02-05",
+        "benefits": [
+            "Health insurance",
+            "Relocation assistance",
+            "Company-sponsored events"
+        ],
+        "expectation": "We are hiring a DevOps Engineer to optimize and maintain our deployment pipelines. Hands-on experience with Kubernetes, Docker, and AWS is a must. Familiarity with CI/CD tools like Jenkins and scripting in Bash or Python is expected. Problem-solving skills and attention to detail are key."
+    },
+    {
+        "job_id": "JN006",
+        "job_role": "UI/UX Designer",
+        "company": "Apple",
+        "company_logo": "images/apple.webp",
+        "onsite_or_remote": "Hybrid",
+        "location": "Cupertino, CA",
+        "employment_type": "Part-time",
+        "experience_level": "Entry-level",
+        "salary": "$80,000 - $105,000",
+        "posted_date": "2025-01-22",
+        "application_deadline": "2025-03-01",
+        "benefits": [
+            "Flexible hours",
+            "Creative freedom",
+            "Paid training programs"
+        ],
+        "expectation": "Looking for a talented UI/UX Designer to create user-centered designs for web and mobile applications. Proficiency in Figma, Adobe XD, and design systems is required. Strong understanding of user research and usability testing is essential for success in this role."
+    },
+    {
+        "job_id": "JN007",
+        "job_role": "Data Scientist",
+        "company": "IBM",
+        "company_logo": "images/ibm.webp",
+        "onsite_or_remote": "Remote",
+        "location": "Armonk, NY",
+        "employment_type": "Full-time",
+        "experience_level": "Senior",
+        "salary": "$130,000 - $170,000",
+        "posted_date": "2025-01-12",
+        "application_deadline": "2025-02-28",
+        "benefits": [
+            "Health insurance",
+            "Stock options",
+            "Generous PTO"
+        ],
+        "expectation": "Join our team as a Data Scientist to analyze complex datasets and provide actionable insights. Expertise in Python, R, and SQL is required. Experience with machine learning frameworks and cloud platforms such as Azure or AWS is highly preferred."
+    },
+    {
+        "job_id": "JN008",
+        "job_role": "Cybersecurity Analyst",
+        "company": "Google",
+        "company_logo": "images/google.webp",
+        "onsite_or_remote": "Onsite",
+        "location": "San Jose, CA",
+        "employment_type": "Full-time",
+        "experience_level": "Mid-level",
+        "salary": "$95,000 - $125,000",
+        "posted_date": "2025-01-18",
+        "application_deadline": "2025-02-18",
+        "benefits": [
+            "Health insurance",
+            "Annual bonuses",
+            "Employee wellness programs"
+        ],
+        "expectation": "Seeking a detail-oriented Cybersecurity Analyst to ensure the security of our systems and networks. Strong knowledge of network security, intrusion detection, and incident response is required. Industry certifications like CISSP or CEH are highly desirable."
+    },
+    {
+        "job_id": "JN009",
+        "job_role": "Product Manager",
+        "company": "Microsoft",
+        "company_logo": "images/microsoft.webp",
+        "onsite_or_remote": "Hybrid",
+        "location": "Redmond, WA",
+        "employment_type": "Full-time",
+        "experience_level": "Senior",
+        "salary": "$120,000 - $150,000",
+        "posted_date": "2025-01-08",
+        "application_deadline": "2025-02-20",
+        "benefits": [
+            "Health insurance",
+            "401(k)",
+            "Team retreats"
+        ],
+        "expectation": "We are looking for an experienced Product Manager to oversee the development and launch of new software products. Strong communication and leadership skills are essential. Familiarity with Agile methodologies, market research, and product lifecycle management is required."
+    },
+    {
+        "job_id": "JN010",
+        "job_role": "Cloud Engineer",
+        "company": "Netflix",
+        "company_logo": "images/netflix.webp",
+        "onsite_or_remote": "Remote",
+        "location": "Redwood City, CA",
+        "employment_type": "Full-time",
+        "experience_level": "Mid-level",
+        "salary": "$110,000 - $140,000",
+        "posted_date": "2025-01-14",
+        "application_deadline": "2025-03-01",
+        "benefits": [
+            "Remote work",
+            "Paid certifications",
+            "Health benefits"
+        ],
+        "expectation": "Hiring a Cloud Engineer with expertise in cloud infrastructure design and maintenance. Must have experience with AWS, Azure, or Google Cloud. Proficiency in scripting languages and understanding of cloud security principles are essential."
+    }
+]
