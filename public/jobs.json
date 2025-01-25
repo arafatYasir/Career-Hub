@@ -97,8 +97,8 @@
     {
         "job_id": "JN006",
         "job_role": "UI/UX Designer",
-        "company": "Apple",
-        "company_logo": "images/apple.webp",
+        "company": "Oracle",
+        "company_logo": "images/oracle.webp",
         "onsite_or_remote": "Hybrid",
         "location": "Cupertino, CA",
         "employment_type": "Part-time",

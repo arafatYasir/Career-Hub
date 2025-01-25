@@ -18,6 +18,7 @@ const Job = ({job}) => {
                 <p className="flex items-center gap-2"><span><LuMapPin /></span> {location}</p>
                 <p className="flex items-center gap-2"><span><ImCoinDollar /></span>{salary}</p>
             </div>
+            <p className="mt-2 text-xl text-[#757575]">Posted: <span className="font-medium">{posted_date}</span></p>
 
             <button className="text-white text-xl font-bold bg-linear-to-r from-[#7E90FE] to-[#9873FF] py-1.5 px-2 md:py-[11px] md:px-[18px] rounded-lg cursor-pointer mt-6"><Link to="jobs:jobId">View Details</Link></button>
         </div>
