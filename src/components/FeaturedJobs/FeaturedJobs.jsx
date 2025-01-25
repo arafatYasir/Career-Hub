@@ -19,7 +19,7 @@ const FeaturedJobs = () => {
 
     return (
         <div className="mt-11 md:mt-32">
-            <h2 className="text-4xl md:text-5xl font-bold text-[#1A1919] text-center">Featured Jobs: {jobs.length}</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-[#1A1919] text-center">Featured Jobs</h2>
             <p className="text-[15px] md:text-lg text-[#757575] leading-7 text-center mt-4 font-medium">Explore thousands of job opportunities with all the information you need. Its your future</p>
 
             <div className="flex flex-wrap justify-between gap-6 mt-11">
