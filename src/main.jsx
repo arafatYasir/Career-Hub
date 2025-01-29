@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import Jobs from './components/Jobs/Jobs'
 import JobDetails from './components/JobDetails/JobDetails'
+import AppliedJobs from './components/AppliedJobs/AppliedJobs'
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "/jobs/:id",
         element: <JobDetails />,
+      },
+      {
+        path: "/applied",
+        element: <AppliedJobs />
       }
     ]
   },
